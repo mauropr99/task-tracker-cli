@@ -1,6 +1,6 @@
 # Task Tracker CLI
 
-A simple CLI application to manage personal tasks using a JSON file as local storage.
+A simple CLI application to manage personal tasks using a JSON file as local storage (https://roadmap.sh/projects/task-tracker).
 
 ## Features
 
