@@ -1,0 +1,27 @@
+# Maven output
+/target/
+
+# Compiled class files
+*.class
+
+# Local task storage 
+tasks.json
+
+# Build files
+task-cli.jar
+manifest.txt
+
+# IDE/editor settings
+/.idea/
+/*.iml
+.vscode/
+.prettierrc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and backups
+*.log
+*~
+*.swp
